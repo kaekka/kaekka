@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/2fe40e82-9b48-4c6b-b7fd-955bd139dd50)
+  <img src="[(https://github.com/user-attachments/assets/2fe40e82-9b48-4c6b-b7fd-955bd139dd50)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVyN29vMjZuOWRhcHRycmpzMjF2aHEwaWhnbmRsMWxrbmQxOHdvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif)
  " width="300"/>
 </p>
 
-<h2 align="center">hello! I'm 𖦹 kaekka ⋆｡˚ ☁︎ ˚｡⋆｡˚ </h2>
+<h2 align="center">hello! I'm kaekka 🌧️💤  </h2>
 
 ---
 
