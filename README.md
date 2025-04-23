@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://your-image-link.png](https://pin.it/2T7xSipQs)" width="300"/>
+  <img src="![gambaranimasi](https://github.com/user-attachments/assets/2fe40e82-9b48-4c6b-b7fd-955bd139dd50)
+ " width="300"/>
 </p>
 
 <h2 align="center">hello! I'm 𖦹 kaekka ⋆｡˚ ☁︎ ˚｡⋆｡˚ </h2>
