@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="[https://your-image-link.png](https://pin.it/2T7xSipQs)" width="300"/>
+</p>
+
+<h2 align="center">hello! I'm 𖦹 kaekka ⋆｡˚ ☁︎ ˚｡⋆｡˚ </h2>
+
+---
+
+🌱 I'm currently learning: HTML, Java & Python  
+💻 I love building fun projects & exploring new tech  
+🎯 My goal: Become a proficient & impactful developer  
 
 <!--
 **kaekka/kaekka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
