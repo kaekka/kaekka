@@ -26,10 +26,10 @@ Because life’s like coding: messy, confusing, but with the right mindset (and 
 </table>
 
 <div align="center">
-  <a href="https://youtube.com/@ubiungiii?si=RgE00QUbjZonLUpN" target="_blank">
+  <a href="https://www.youtube.com/@ekaverarina9999" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
   </a>
-  <a href="https://www.instagram.com/fbenaa?igsh=eTlsN2NyZXQxa2Jl" target="_blank">
+  <a href="https://www.instagram.com/e.verra_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="mailto:e.verrarin@gmail.com">
