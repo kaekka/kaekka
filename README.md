@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFhbTNmZjhzd251dW1uOWtpYWtkbjgydGV3ZzluMmJib3B2ZGo4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" style="width: 90%; max-width: 1000px; height: auto;">
-</p>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 
 <h2 align="center">hello! I'm kaekka 🌧️💤  </h2>
