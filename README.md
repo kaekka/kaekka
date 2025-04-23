@@ -1,5 +1,7 @@
-<img src="https://i.gifer.com/g32K.gif">
 
+<p align="center">
+ <img src="https://i.gifer.com/g32K.gif"> style="width: 100%; max-width: 10000px; height: auto;">
+</p>
 
 <h2 align="center">hello! I'm kaekka 🌧️💤  </h2>
 
