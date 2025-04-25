@@ -8,8 +8,9 @@
 <table>
   <tr>
     <td align="left">
-      Heyyy~ I'm a proud beginner in the world of coding, currently juggling:
-  HTML, CSS, Java, and Python (mostly while half-asleep 😴).
+I'm a proud beginner in the world of coding, currently juggling:
+HTML, CSS, Java, and Python (mostly while half-asleep 😴).
+      
 Certified nap enthusiast, with big dreams of becoming an awesome developer who builds cool and possibly world-changing stuff! 
 
 I might be lazy, and yes, I love sleep like it's my full-time job...
@@ -62,7 +63,7 @@ Because life’s like coding: messy, confusing, but with the right mindset (and 
 
 
 ---
-💡 *"Every expert was once a beginner! Keep coding and never stop learning."* 🚀
+ *"Mending Turu."* 
 
 <!--
 **kaekka/kaekka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
