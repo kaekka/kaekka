@@ -19,7 +19,7 @@ Learning to code is a journey—and I'm totally here for the bugs, the brain fre
 Because life’s like coding: messy, confusing, but with the right mindset (and snacks), anything’s possible.
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/7DxEk8Nm2fOjy06jtP/giphy.gif" width="150">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4xczU4ZjR1dGhlcXJia3BiY2FjdWRlbXhrMHNpbjlzdG5ybG1zeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" width="150">
     </td>
   </tr>
 </table>
