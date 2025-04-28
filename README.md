@@ -62,6 +62,10 @@ Because life’s like coding: messy, confusing, but with the right mindset (and 
   </tr>
 </table>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaekka&theme=radical" alt="kaekka trophies" />
+</p>
 
 ---
  *"Mending Turu."* 
