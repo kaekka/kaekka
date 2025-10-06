@@ -91,11 +91,6 @@ Every day, I learn something new — sometimes through success, often through mi
       <img src="https://streak-stats.demolab.com?user=kaekka&theme=tokyonight-duo&background=000000&ring=cba6f7&fire=8B5CF6&currStreakLabel=ffffff" height="180"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaekka&layout=compact&theme=tokyonight&bg_color=000000&title_color=cba6f7&text_color=ffffff" height="150"/>
-    </td>
-  </tr>
 </table>
 
 
