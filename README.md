@@ -24,7 +24,7 @@
       Just an Informatics student wandering through lines of code and colors of design.
 I find peace in creating things that not only work but also feel right.
 My passion lies in UI/UX design, where creativity and precision meet to shape better user experiences.
-I’m chasing my dream to become a Frontend Software Engineer — a place where art meets logic, and pixels come alive with purpose.💫
+I’m chasing my dream to become a Software Engineer — a place where art meets logic, and pixels come alive with purpose. Anw i also enjoys creating small games for fun.💫
 
 Every day, I learn something new — sometimes through success, often through mistakes — but always with curiosity (and maybe a cup of coffee or two).🌧️☕
       </p>
