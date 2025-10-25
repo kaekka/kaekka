@@ -104,8 +104,8 @@ Every day, I learn something new — sometimes through success, often through mi
 ---
 
 <p align="center" style="color:#bdbdbd; font-style:italic;">
-“Sometimes the best code is written after midnight.” 🌙 <br>
-or maybe not… depends on the coffee.
+System.out.println("Even if the world ends, I'll keep reading."); <br>
+// Me: even if the code breaks, I'll keep compiling.
 </p>
 
 <p align="center" style="color:#9ca3af; font-style:italic;">
